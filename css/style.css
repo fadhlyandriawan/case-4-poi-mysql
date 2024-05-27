@@ -1,0 +1,15 @@
+#map {
+    height: 600px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 2px solid red;
+}
+
+#infoDataBtn{
+    margin-bottom: 20px;
+}
+
+#BackIndex {
+    padding: 10px 20px;
+}
